@@ -1,0 +1,1 @@
+Simple plugin to overwrite the gallery function in WordPress and output a list of images — essentially allowing multiple image upload.
